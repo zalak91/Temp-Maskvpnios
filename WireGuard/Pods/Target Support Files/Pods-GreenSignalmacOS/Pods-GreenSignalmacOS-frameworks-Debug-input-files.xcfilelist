@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-GreenSignalmacOS/Pods-GreenSignalmacOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire-macOS/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift-macOS/ReachabilitySwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage-macOS/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON-macOS/SwiftyJSON.framework

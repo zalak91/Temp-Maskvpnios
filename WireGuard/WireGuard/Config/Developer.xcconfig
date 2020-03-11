@@ -1,0 +1,10 @@
+// Developer.xcconfig
+
+// You Apple developer account's Team ID
+DEVELOPMENT_TEAM = J9K9MFTMW9
+
+// The bundle identifier of the apps.
+// Should be an app id created at developer.apple.com
+// with Network Extensions capabilty.
+APP_ID_IOS = com.vpm.MSecureVPN
+APP_ID_MACOS = com.vpn.thekeyvpn

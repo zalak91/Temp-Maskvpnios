@@ -1,0 +1,6 @@
+framework module Pods_GreenSignalmacOS {
+  umbrella header "Pods-GreenSignalmacOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
